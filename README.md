@@ -3,14 +3,17 @@
 
 ## Contact Information
 - **Email**: calvinsu1997@gmail.com
-- **GitHub**: [Your GitHub Profile](https://github.com/MolaSu)
-- **LinkedIn**: [Your LinkedIn Profile (Optional)](https://www.linkedin.com/in/calvin-su-b216b0194/)
+- **GitHub**: [MolaSu](https://github.com/MolaSu)
+- **LinkedIn**: [Calvin Su](https://www.linkedin.com/in/calvin-su-b216b0194/)
 - **Location**: [HCM City, VietNam]
 - **Phone**: [(+84)898146826]
+- **CV**: [[Tô Bỉnh Hào (Calvin)](https://drive.google.com/file/d/1qUWTzBjTcoReu1W5P2lJqi4ijSJEay5E/view?usp=sharing)]
 
 ## Summary
 Enthusiastic and dedicated junior PHP developer with a passion for web development and a strong desire to learn and grow. Proficient in PHP, HTML, CSS, and JavaScript. Eager to contribute to real-world projects and expand my skills in a collaborative team environment.
-
+<br>
+<br>
+Just a guy start all over again, find out a passion for coding as much as he does for playing sudoku all day.
 ## Education
 - **Certificate of Web Progamming HTML5, CSS, JavaScript & Bootstrap, PHP Progamming**
   - [Trung Tâm Tin Học Trường Đại học khoa học Tự nhiên]
@@ -31,7 +34,8 @@ Enthusiastic and dedicated junior PHP developer with a passion for web developme
 - **Technologies**: (Bootstrap, jQuery, PHP, HTML, CSS, JavaScript, MySQL ).
 - **GitHub**: [Link to the GitHub repository](https://github.com/MolaSu/Project-Graduate)
 
-### Project 2:
+### Project 2: 
+will start soon after learning about VueJS
 
 
 <!---
