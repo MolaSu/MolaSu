@@ -22,8 +22,8 @@ Enthusiastic and dedicated junior PHP developer with a passion for web developme
 - **Web Development**: Responsive web design, Git, RESTful APIs
 - **Development Tools**: Visual Studio Code, Git/GitHub
 - **Databases**: MySQL
-- **Problem Solving**: Strong analytical and problem-solving skills 
-- **Teamwork**: Excellent collaboration and communication skills
+- **Problem Solving**: Strong analytical and problem-solving skills (skill aquired at latest jobs as Lead Sales Team HCM Branch)
+- **Teamwork**: Excellent collaboration and communication skills (skill aquired at latest jobs as Lead Sales Team HCM Branch)
 
 ## Projects
 ### Project 1: [Project Graduate]
