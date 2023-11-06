@@ -29,8 +29,7 @@ Enthusiastic and dedicated junior PHP developer with a passion for web developme
 ### Project 1: [Project Graduate]
 - **Description**: .
 - **Technologies**: (Bootstrap, jQuery, PHP, HTML, CSS, JavaScript, MySQL ).
-- **GitHub**: [Link to the GitHub repository](https://github.com/yourusername/project1)
-- **Live Demo**: [Link to the live demo if available]
+- **GitHub**: [Link to the GitHub repository](https://github.com/MolaSu/Project-Graduate)
 
 ### Project 2:
 
