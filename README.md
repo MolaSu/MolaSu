@@ -25,8 +25,8 @@ Just a guy start all over again, find out a passion for coding as much as he doe
 - **Web Development**: Responsive web design, Git, RESTful APIs
 - **Development Tools**: Visual Studio Code, Git/GitHub
 - **Databases**: MySQL
-- **Problem Solving**: Strong analytical and problem-solving skills (skill aquired at latest jobs as Lead Sales Team HCM Branch)
-- **Teamwork**: Excellent collaboration and communication skills (skill aquired at latest jobs as Lead Sales Team HCM Branch)
+- **Problem Solving**: Strong analytical and problem-solving skills (skill aquired at latest job as Lead Sales Team HCM Branch)
+- **Teamwork**: Excellent collaboration and communication skills (skill aquired at latest job as Lead Sales Team HCM Branch)
 
 ## Projects
 ### Project 1: [Project Graduate]
@@ -37,6 +37,19 @@ Just a guy start all over again, find out a passion for coding as much as he doe
 ### Project 2: 
 will start soon after learning about VueJS
 
+## Certifications
+- **[Web Programming Web programming HTML5, CSS3, jQuery, Bootstrap]**: [Trung Tâm Tin Học Trường Đại học khoa học Tự nhiên, 2023](https://drive.google.com/file/d/17ot2JyIW6Z1Wsi9uaMQwXgCKRd6fOg4n/view?usp=sharing)
+- **[PHP Programming]**: [Trung Tâm Tin Học Trường Đại học khoa học Tự nhiên, 2023](https://drive.google.com/file/d/1ydmQKsCFHPa4kFwCPtOnuccfDy5U7Maj/view?usp=sharing)
+
+
+## Languages
+- **[English]**: [Fluent]
+- **[Cantonese]**: [Intermediate]
+- **[Mandarin]**: [Basic]
+
+
+## Interests
+- Web development, open-source contributions, problem-solving, learning new technologies.
 
 <!---
 MolaSu/MolaSu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
