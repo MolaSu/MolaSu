@@ -25,8 +25,8 @@ Just a guy start all over again, find out a passion for coding as much as he doe
 - **Web Development**: Responsive web design, Git, RESTful APIs
 - **Development Tools**: Visual Studio Code, Git/GitHub
 - **Databases**: MySQL
-- **Problem Solving**: Strong analytical and problem-solving skills (skill aquired at latest job as Lead Sales Team HCM Branch)
-- **Teamwork**: Excellent collaboration and communication skills (skill aquired at latest job as Lead Sales Team HCM Branch)
+- **Problem Solving**: Strong analytical and problem-solving skills 
+- **Teamwork**: Excellent collaboration and communication skills 
 
 ## Projects
 ### Project 1: [Project Graduate]
